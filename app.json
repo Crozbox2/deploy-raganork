@@ -3,7 +3,7 @@
     "description": "WhatsApp public/user bot",
     "logo": "",
     "keywords": ["WhatsApp"],
-    "repository": "https://github.com/souravkl11/raganork-md",
+    "repository": "https://github.com/crozbox2/raganork-md",
     "website":   "https://raganork.ml",
     "success_url": "https://raganork.ml",
     "stack": "container",
@@ -49,7 +49,7 @@
             "value":"off"
         },
         "BOT_NAME": {
-            "description": "Name of AI chatbot",
+            "description": "CROZBO SIR",
             "required": true,
             "value":"Raganork"
         },
