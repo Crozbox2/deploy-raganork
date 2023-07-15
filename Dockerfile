@@ -1,4 +1,4 @@
-FROM quay.io/CROZBOX2/rgnk-v2:latest
+FROM quay.io/crozbox2/rgnk-v2:latest
 
 RUN git clone https://github.com/CROZBOX2/raganork-md /skl/Raganork
 WORKDIR /skl/Raganork
